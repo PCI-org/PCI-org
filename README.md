@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+The Playing Cards Institute organization (PCI) was created on 2016-10-7.
+
 <!--
 **PCI-org/PCI-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
